@@ -1,0 +1,12 @@
+body{
+color: cornsilk;
+    background-color: rgb(193, 193, 216);
+}
+.heading{
+    width: 80%;
+    font-size: 82px;
+}
+.name_of_object,#result_object_name,#result_object_accuracy
+{
+color: blueviolet;
+}
